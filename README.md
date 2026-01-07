@@ -28,3 +28,7 @@ On the backend, a server is implemented to handle WebSocket connections and mana
 Security and reliability are also considered in this project. Basic validation is applied to user inputs to prevent empty or invalid messages. The structured flow of data between client and server ensures stable communication and minimizes errors. The project follows clean coding practices, making the codebase easy to understand, maintain, and extend in the future.
 
 Overall, the Real-Time Chat Application project provides hands-on experience with real-time web technologies and front-end frameworks. It helps learners understand how modern chat systems work, from maintaining live connections to handling real-time updates on the user interface. This project not only strengthens concepts such as WebSockets, component-based UI design, and client-server architecture but also prepares students for building scalable, real-world web applications. The successful completion of this project demonstrates the ability to design, develop, and deploy an interactive real-time application, making it a valuable addition to any developer’s portfolio.
+
+Output 
+
+![Image](https://github.com/user-attachments/assets/8690a18c-7c70-4d61-933a-2069909b8609)
